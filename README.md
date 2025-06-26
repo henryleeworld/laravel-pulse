@@ -1,4 +1,4 @@
-# Laravel 11 脈搏
+# Laravel 12 脈搏
 
 引入 laravel 的 pulse 套件來擴增即時應用程式效能監控工具和儀表板，可以確保自身維持預期的服務水準，讓客戶獲得良好的應用程式體驗。
 
@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/o3HlM8m.png)
+![](https://i.imgur.com/Vnz5ztb.png)
 > 有助於確保服務平穩執行，停機時間降至最低，並確保客戶始終獲得積極的體驗
